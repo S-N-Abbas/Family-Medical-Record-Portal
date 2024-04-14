@@ -18,20 +18,20 @@ Welcome to the Family Medical Record Portal, a secure platform for managing medi
    ![image](https://github.com/S-N-Abbas/Family-Medical-Record-Portal/assets/25863738/d55d670c-7b5f-410c-a646-e47646a075ad)
 
 
-6. **Medical History Access**: When a doctor receives an appointment notification, they can access the medical history and uploaded files of the patient, ensuring informed and personalized care.
+5. **Medical History Access**: When a doctor receives an appointment notification, they can access the medical history and uploaded files of the patient, ensuring informed and personalized care.
 
-7. **Secure Messaging**: The platform includes a built-in messaging service for communication between users and doctors, ensuring privacy and convenience.
+6. **Secure Messaging**: The platform includes a built-in messaging service for communication between users and doctors, ensuring privacy and convenience.
 
    ![image](https://github.com/S-N-Abbas/Family-Medical-Record-Portal/assets/25863738/ed690621-8065-4e36-a7ce-c0b0daccffb4)
 
 
-9. **Data Privacy**: Only the owner of the medical record and the appointed doctor can view files and medical history, ensuring strict data privacy and confidentiality.
+7. **Data Privacy**: Only the owner of the medical record and the appointed doctor can view files and medical history, ensuring strict data privacy and confidentiality.
 
 ## Getting Started
 
 To run this project locally or contribute to its development, follow these steps:
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine: `git clone https://github.com/S-N-Abbas/Family-Medical-Record-Portal.git`
 
 2. Open the project in your preferred development environment.
 
